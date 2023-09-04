@@ -1,0 +1,5 @@
+var = input('Digite algo')
+print(var.isalnum())
+print(var.isdigit())
+print(var.isupper())
+print(var.isspace())
